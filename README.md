@@ -1,52 +1,48 @@
 # Neuroimaging-datasets
 A collection of (semi-)open neuroimaging datasets for large-scale machine learning research [keep updating]
 
-1. LONI-ADNI
+- LONI
+  - ADNI
+  - PPMI
+  - LONI-ICBM
+  - LONI-AIBL
+  - LONI-4RTNI
+  - LONI-NIFD
+  - LONI-ADNIDOD
+  - LONI-ABVIB
+  
+- OASIS
+  - OASIS-1
+  - OASIS-2
+  - OASIS-3
 
-2. LONI-PPMI
+- INDI
+  - CoRR
+  - SALD
+  - SLIM
+  - DLBS
+  - ABIDE
+  - ABIDE-II
 
-3. LONI-ICBM
+- SchizConnect
+  - NUSDAST
+  - NMorphCH
+  - COBRE
+  - MCICShare
+  - fBIRNPhaseII
+  - BrainGluSchi
+  
+- HCP
 
-4. LONI-AIBL
+- GSP
 
-5. LONI-4RTNI
+- Cam-CAN
 
-6. LONI-NIFD
+- IXI
+  
+- ABCD
 
-7. LONI-ADNIDOD
+- UK Biobank
 
-8. LONI-ABVIB
-
-9. OASIS-1
-
-10. OASIS-2
-
-11. OASIS-3
-
-12. HCP
-
-13. GSP
-
-14. Cam-CAN
-
-15. IXI
-
-16. SchizConnect
-
-17. CoRR
-
-18. SALD
-
-19. SLIM
-
-20. DLBS
-
-21. ABIDE
-
-22. ABCD
-[require institutional approval]
-
-23. UK Biobank
-
-24. MIRIAD
+- MIRIAD
 
