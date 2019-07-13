@@ -4,12 +4,12 @@ A collection of (semi-)open neuroimaging datasets for large-scale machine learni
 - [LONI](https://ida.loni.usc.edu)
   - [ADNI](https://ida.loni.usc.edu/login.jsp?project=ADNI)
   - [PPMI](https://ida.loni.usc.edu/login.jsp?project=PPMI)
-  - [LONI-ICBM](https://ida.loni.usc.edu/login.jsp?project=ICBM)
-  - [LONI-AIBL](https://ida.loni.usc.edu/login.jsp?project=AIBL)
-  - [LONI-4RTNI](https://ida.loni.usc.edu/login.jsp?project=4RTNI)
-  - [LONI-NIFD](https://ida.loni.usc.edu/login.jsp?project=NIFD)
-  - [LONI-ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD)
-  - [LONI-ABVIB](https://ida.loni.usc.edu/login.jsp?project=ABVIB)
+  - [ICBM](https://ida.loni.usc.edu/login.jsp?project=ICBM)
+  - [AIBL](https://ida.loni.usc.edu/login.jsp?project=AIBL)
+  - [4RTNI](https://ida.loni.usc.edu/login.jsp?project=4RTNI)
+  - [NIFD](https://ida.loni.usc.edu/login.jsp?project=NIFD)
+  - [ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD)
+  - [ABVIB](https://ida.loni.usc.edu/login.jsp?project=ABVIB)
   
 - [OASIS](http://www.oasis-brains.org/)
   - OASIS-1
