@@ -2,10 +2,11 @@
 A collection of (semi-)open neuroimaging datasets for large-scale machine learning research.
 The dataset sorted by different conditions can be found in the other file [sorted-by-conditions.md](sorted-by-conditions.md).
 
-Relevant reference:
+### Relevant reference:
 
 Feng, Xinyang, Zachary C. Lipton, Jie Yang, Scott A. Small, and Frank A. Provenzano. "Estimating brain age based on a healthy population with deep learning and structural MRI." arXiv:1907.00943 (2019). https://arxiv.org/abs/1907.00943
 
+### Datasets list:
 - [LONI](https://ida.loni.usc.edu)
   - [ADNI](https://ida.loni.usc.edu/login.jsp?project=ADNI)
   - [PPMI](https://ida.loni.usc.edu/login.jsp?project=PPMI)
