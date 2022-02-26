@@ -51,4 +51,4 @@ The dataset sorted by different conditions can be found in the other file [sorte
 
 ### Relevant reference:
 
-Feng, Xinyang, Zachary C. Lipton, Jie Yang, Scott A. Small, and Frank A. Provenzano. "Estimating brain age based on a healthy population with deep learning and structural MRI." arXiv:1907.00943 (2019). https://arxiv.org/abs/1907.00943
+Feng, Xinyang, Zachary C. Lipton, Jie Yang, Scott A. Small, Frank A. Provenzano, Alzheimer’s Disease Neuroimaging Initiative, and Frontotemporal Lobar Degeneration Neuroimaging Initiative. "Estimating brain age based on a uniform healthy population with deep learning and structural magnetic resonance imaging." Neurobiology of aging 91 (2020): 15-25.
